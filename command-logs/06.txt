@@ -1,0 +1,8 @@
+Step 06
+Working directory: /workspace/scratch/e226bd411177/git-workflow-evidence/learn_git
+$ git commit -m "adding third.txt"
+[master (root-commit) 2e3d77e] adding third.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 third.txt
+
+Exit code: 0

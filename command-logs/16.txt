@@ -1,0 +1,8 @@
+Step 16
+Working directory: /workspace/scratch/e226bd411177/git-workflow-evidence/learn_git
+$ git config --global --list
+core.pager=cat
+user.name=Codex
+user.email=codex@openai.com
+
+Exit code: 0

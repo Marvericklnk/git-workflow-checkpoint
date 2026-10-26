@@ -1,0 +1,5 @@
+Step 02
+Working directory: /workspace/scratch/e226bd411177/git-workflow-evidence/learn_git
+$ cd learn_git
+
+Exit code: 0

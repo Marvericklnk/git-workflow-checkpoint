@@ -1,0 +1,8 @@
+Step 13
+Working directory: /workspace/scratch/e226bd411177/git-workflow-evidence/learn_git
+$ git commit -m "removing third.txt"
+[master c517410] removing third.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 third.txt
+
+Exit code: 0

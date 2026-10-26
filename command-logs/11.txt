@@ -1,0 +1,5 @@
+Step 11
+Working directory: /workspace/scratch/e226bd411177/git-workflow-evidence/learn_git
+$ rm third.txt
+
+Exit code: 0

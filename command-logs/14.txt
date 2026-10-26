@@ -1,0 +1,22 @@
+Step 14
+Working directory: /workspace/scratch/e226bd411177/git-workflow-evidence/learn_git
+$ git log
+commit c517410e4419cc2a2254d7f7a41c7a8f5aeca6b3
+Author: Marvericklnk <344570469+Marvericklnk@users.noreply.github.com>
+Date:   Tue Oct 27 00:06:21 2026 +0100
+
+    removing third.txt
+
+commit e21030b394c2dce294135c4792dd98670756763e
+Author: Marvericklnk <344570469+Marvericklnk@users.noreply.github.com>
+Date:   Tue Oct 27 00:06:21 2026 +0100
+
+    adding fourth.txt
+
+commit 2e3d77e7e18473b72e64a1b48644c83145716c6d
+Author: Marvericklnk <344570469+Marvericklnk@users.noreply.github.com>
+Date:   Tue Oct 27 00:06:21 2026 +0100
+
+    adding third.txt
+
+Exit code: 0

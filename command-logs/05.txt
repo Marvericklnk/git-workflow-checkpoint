@@ -1,0 +1,5 @@
+Step 05
+Working directory: /workspace/scratch/e226bd411177/git-workflow-evidence/learn_git
+$ git add third.txt
+
+Exit code: 0

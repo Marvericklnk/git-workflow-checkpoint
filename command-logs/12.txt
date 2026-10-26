@@ -1,0 +1,5 @@
+Step 12
+Working directory: /workspace/scratch/e226bd411177/git-workflow-evidence/learn_git
+$ git add .
+
+Exit code: 0
